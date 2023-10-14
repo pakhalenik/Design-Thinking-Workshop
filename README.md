@@ -1,4 +1,4 @@
-![image](https://github.com/pakhalenik/Design-Thinking-Workshop/assets/75984120/9b52f0cc-1e81-4731-98da-06a27374e81b)# Design-Thinking-Workshop
+Design-Thinking-Workshop
 Design Thinking Workshop by Prof Bala Ramadurai by IIT Madras conducted by NPTEL, IIT Madras. 
 
 20 hours of case study-based workshop.
@@ -13,6 +13,9 @@ Design thinking solution - We developed a platform where student can access open
 students can accure knowledge as per the the company requirements and job oriented skill enhancement workshops,etc.
 
 He/She can access the job openings and required skills in advance so that he can work on that skills.
+
+
+
 
 
 
